@@ -4,3 +4,4 @@
 
 老师答案地址： https://github.com/PaddlePaddle/PARL/tree/develop/examples/tutorials/homework
 
+每日作业笔记：详见每日文件夹内的Readme
